@@ -16,6 +16,8 @@ The notebook performs the following steps:
 
 
 
+# Dataset visualization
+<img width="711" height="701" alt="image" src="https://github.com/user-attachments/assets/ca5b89e5-2e70-4a97-b616-d6813cf4d898" />
 
 
 
