@@ -22,6 +22,9 @@ The notebook performs the following steps:
 # Model Pridictions
 <img width="443" height="418" alt="image" src="https://github.com/user-attachments/assets/2002187e-03ba-4ad1-8abe-dca7294b3ba1" />
 
+# Learning Curve
+  <img width="2074" height="1407" alt="learning_curve(1)" src="https://github.com/user-attachments/assets/5d88143b-af20-413b-9e6a-fb6800d76205" />
+
 ```
 Predicted joint angles (θ₁, θ₂): [[     1.5956   -0.034143]
 
