@@ -19,8 +19,25 @@ The notebook performs the following steps:
 # Dataset visualization
 <img width="711" height="701" alt="image" src="https://github.com/user-attachments/assets/ca5b89e5-2e70-4a97-b616-d6813cf4d898" />
 
+# Model Pridictions
+<img width="443" height="418" alt="image" src="https://github.com/user-attachments/assets/2002187e-03ba-4ad1-8abe-dca7294b3ba1" />
 
+```
+Predicted joint angles (θ₁, θ₂): [[     1.5956   -0.034143]
 
+ [    0.64429    0.047461]
+ [    0.38181   -0.049708]
+ [    0.85877    -0.59516]
+ [    0.60278   -0.021791]]
+ 
+Actual joint angles (θ₁, θ₂): [[     1.5411     0.28308]
+
+ [    0.20621      1.0561]
+ [   -0.40755      1.5855]
+ [   -0.47329      -2.826]
+ [     0.6862   -0.059935]]
+
+```
 
 This project implements a **2D Inverse Kinematics (IK) solver** for a simple robotic arm with **2 rotational joints** using **machine learning (Neural Networks)**.
 
