@@ -275,7 +275,7 @@ Not ideal for:
 
 ## Key Takeaway
 
-You successfully built:
+Successfully built:
 
 > **A neural network that learned inverse kinematics from scratch.**
 
